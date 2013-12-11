@@ -4,8 +4,7 @@
 #include <pthread.h>
 
 
-//adaugat comentariu
-
+//adaugat comentariu..
 pthread_t thread;
 pthread_t thread1;
 int clientFD;
